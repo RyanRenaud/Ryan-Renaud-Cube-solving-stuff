@@ -1,11 +1,18 @@
 # Day 1(Feb 18th 2020)
 ### Cube: Pyraminx Duo
-ao5  :
-ao12 :
-ao25 :
+ao5  :4.8s
+ao12 :5.7s
+ao25 :7.3s
 
-# Day 2
-### Cube: 
-ao5  :
-ao12 :
-ao25 :
+# Day 2(Feb 22nd 2020)
+### Cube: Pyraminx
+ao5  :5.37min
+ao12 :6.52min
+ao25 :8.49min
+
+# Day 3(Feb 24th 2020)
+### Cube: Pyraminx
+ao5  :3.46min
+ao12 :4.12min
+ao25 :5.37min
+
